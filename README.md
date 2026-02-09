@@ -18,32 +18,12 @@ Building clean & functional digital experiences ✨
 
 ---
 
-## 🐍 Contributions
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/isabelazg/isabelazg/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=isabelazg&show_icons=true&theme=tokyonight"
-    height="165"
-  />
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=isabelazg&theme=tokyonight"
     height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelazg&layout=compact&theme=tokyonight"
-    height="150"
   />
 </p>
 
