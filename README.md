@@ -29,15 +29,6 @@ Building clean & functional digital experiences ✨
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=isabelazg&theme=radical&row=1&column=6&no-bg=true"
-  />
-</p>
-
----
-
 ## 🛠️ Technologies I Work With
 <p align="center">
   <img 
