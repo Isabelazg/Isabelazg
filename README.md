@@ -49,7 +49,3 @@ Building clean & functional digital experiences ✨
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=isabelazg&color=6" />
-</p>
